@@ -104,3 +104,7 @@ p{
         min-width: 100%;
     }
 }
+.sample2 {
+    display: none; /* 初期状態で非表示 */
+}
+
